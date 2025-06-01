@@ -1,0 +1,2 @@
+# Auto_Generate_Django_Models_InspectDB
+Auto_Generate_Django_Models_InspectDB
